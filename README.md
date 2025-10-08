@@ -1,4 +1,4 @@
-[Readymag • Data Portfolio • Edit.html](https://github.com/user-attachments/files/22765272/Readymag.Data.Portfolio.Edit.html)- 👋 Hi, I’m @gaylaht
+ 👋 Hi, I’m @gaylaht
 - 👀 I’m interested in data analytics and game development.
 - 🌱 I’m currently learning C++ and sharpening my C# skills after learning SQL and Python.
 - 💞️ I’m looking to collaborate on health care projects and any data deep dives
